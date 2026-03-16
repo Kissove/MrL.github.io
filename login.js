@@ -1,1 +1,1 @@
-function login() { console.log('Logged in'); }
+function login() { ... }
